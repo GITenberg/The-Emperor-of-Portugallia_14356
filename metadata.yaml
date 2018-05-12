@@ -29,6 +29,8 @@ description: "The Emperor of Portugallia (Swedish: Kejsarn av Portugallien) is a
   \ earlier novels Gösta Berling's Saga and the first part of Jerusalem. It has been\
   \ filmed three times: 1925, 1944 and 1992. An English translation by Velma Swanston\
   \ Howard was published in 1916.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14356#The-Emperor-of-Portugallia
 gutenberg_issued: '2004-12-15'
 gutenberg_type: Text
 identifiers:
